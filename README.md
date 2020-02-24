@@ -15,4 +15,5 @@ At it's core, this project is nothing more than chaging LED colors based on a sc
 | LED Bar | https://smile.amazon.com/dp/B01J7Y332Q/ref=cm_sw_em_r_mt_dp_U_0mZuEbVDB30VQ |
 
 Technically any Raspberry Pi of recent vintage (I think since the 2) will do. The linked Pi kit has a case with sutable screw holes for mounting wherever desired as well as the required power supply. It is a convenient kit with most of the required parts and not much extra.
+
 The LED Bar is the Pimoroni Blinkt! module. While the code is aimed specifically at that LED set, it can be fairly easily modified to support a variety of other LED modules.
